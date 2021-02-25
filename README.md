@@ -7,6 +7,6 @@ Hyperlink-Induced Topic Search
 
 超文本敏感标题搜索
 
-使用python完成
+使用Python完成
 
 ！！！！！！我瞎写的代码和文章，不喜勿喷！！！！！！！！！！
